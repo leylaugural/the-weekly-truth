@@ -1,0 +1,7 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Tab Bar/Close">
+<rect x="0.5" y="0.5" width="29" height="29" rx="2.5" fill="#B2B2B2"/>
+<rect x="0.5" y="0.5" width="29" height="29" rx="2.5" stroke="#918E8E"/>
+<path id="Vector" d="M21 10.05L19.95 9L15 13.95L10.05 9L9 10.05L13.95 15L9 19.95L10.05 21L15 16.05L19.95 21L21 19.95L16.05 15L21 10.05Z" fill="white" stroke="white"/>
+</g>
+</svg>
